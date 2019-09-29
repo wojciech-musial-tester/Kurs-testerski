@@ -7,4 +7,5 @@ woda
 fundamenty, 
 œciany,
 okna,
-dach.
+dach, 
+komin.
